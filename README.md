@@ -14,7 +14,8 @@ The network spans four OSPF areas plus a statically routed segment, connected th
 
 ## Topology
 
-![Network Topology](Topology-Diagram.png)
+<img width="560" height="338" alt="Screenshot 2026-11-12 175652" src="https://github.com/user-attachments/assets/e692ce32-18c6-4e72-ba71-cb2ac36108b7" />
+
 
 | Area | Purpose | Key Devices |
 |---|---|---|
